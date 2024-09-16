@@ -1,6 +1,6 @@
 ### Hey, I'm Josh 👋
 
-I'm a senior software engineer based in Brisbane, Australia. I am heavily focused on .NET Framework and .NET core apps, with Angular and SCSS/LESS front end. Some of my other preferred languages include Java, Objective-C, and Node.JS/TypeScript to name a few.
+I'm a Technical Lead based in Brisbane, Australia. I am heavily focused on .NET Framework and .NET core apps, with Angular and SCSS/LESS front end. Some of my other preferred languages include Java, Objective-C, and Node.JS/TypeScript to name a few.
 
 Want to see what I get up to in my free time? Check out some of my projects.
 * [GTA Session Bot](https://github.com/jpdunn/GTA-Session-Bot) - An in-depth project which allows users to create a "private" session in Grand Theft Auto Online and control the entire thing through a Discord bot.
